@@ -1,0 +1,17 @@
+<div class="product-details-container" *ngIf="!isLoading && product; else loadingOrError">
+  <h2>{{ product.name }}</h2>
+  <img [src]="getImageUrl()" alt="{{ product.name }}" class="product-image" />
+
+  <div class="details">
+    <p><strong>Product Code:</strong> {{ product.productCode }}</p>
+    <p><strong>Category:</strong> {{ product.category }}</p>
+    <p><strong>Price:</strong> {{ product.price | currency }}</p>
+    <p><strong>Minimum Quantity:</strong> {{ product.minimumQuantity }}</p>
+    <p><strong>Discount Rate:</strong> {{ product.discountRate }}%</p>
+  </div>
+</div>
+
+<ng-template #loadingOrError>
+  <div *ngIf="isLoading">Loading product details...</div>
+  <div *ngIf="errorMessage">{{ errorMessage }}</div>
+</ng-template>

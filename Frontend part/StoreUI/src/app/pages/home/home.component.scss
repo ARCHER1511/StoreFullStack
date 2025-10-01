@@ -1,0 +1,29 @@
+.welcome-page {
+  background: linear-gradient(135deg, #007bff 0%, #00c6ff 100%);
+  color: #fff;
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+
+  .welcome-content {
+    background-color: rgba(0, 0, 0, 0.25); // semi-transparent background
+    border-radius: 15px;
+    padding: 2rem 3rem;
+
+    h1 {
+      font-weight: 700;
+    }
+
+    p {
+      font-size: 1.25rem;
+    }
+
+    .btn {
+      min-width: 120px;
+      transition: transform 0.2s, box-shadow 0.2s;
+
+      &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+      }
+    }
+  }
+}

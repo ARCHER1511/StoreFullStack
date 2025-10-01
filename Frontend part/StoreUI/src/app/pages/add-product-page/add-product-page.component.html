@@ -1,0 +1,33 @@
+<form [formGroup]="form" (ngSubmit)="onSubmit()" enctype="multipart/form-data">
+  <div class="mb-3">
+    <label>Category</label>
+    <input formControlName="category" class="form-control" />
+  </div>
+
+  <div class="mb-3">
+    <label>Name</label>
+    <input formControlName="name" class="form-control" />
+  </div>
+
+  <div class="mb-3">
+    <label>Price</label>
+    <input type="number" formControlName="price" class="form-control" />
+  </div>
+
+  <div class="mb-3">
+    <label>Minimum Quantity</label>
+    <input type="number" formControlName="minimumQuantity" class="form-control" />
+  </div>
+
+  <div class="mb-3">
+    <label>Discount Rate (%)</label>
+    <input type="number" formControlName="discountRate" class="form-control" />
+  </div>
+
+  <div class="mb-3">
+    <label>Image</label>
+    <input type="file" (change)="onFileChange($event)" class="form-control" />
+  </div>
+
+  <button type="submit" class="btn btn-success">Create Product</button>
+</form>

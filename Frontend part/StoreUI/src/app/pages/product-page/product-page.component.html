@@ -1,0 +1,36 @@
+<!-- 🔼 Add Product Button -->
+<div class="mb-4 text-end">
+  <a [routerLink]="['/products/create']" class="btn btn-success">
+    + Add Product
+  </a>
+</div>
+
+<div class="row">
+  <div class="col-md-4" *ngFor="let product of products">
+    <div class="card mb-4 shadow-sm">
+      <img [src]="getImagePath(product.imagePath)" class="card-img-top" alt="{{ product.name }}">
+      <div class="card-body">
+        <h5 class="card-title">{{ product.name }}</h5>
+        <p class="card-text">
+          <strong>Category:</strong> {{ product.category }}<br>
+          <strong>Price:</strong> ${{ product.price }}<br>
+          <strong>Price:</strong> ${{ product.productCode }}<br>
+          <strong>Minimum Quantity:</strong> {{ product.minimumQuantity }}<br>
+        </p>
+
+        <!-- 🔧 Action Buttons -->
+        <div class="d-grid gap-2">
+          <a [routerLink]="['/products', product.id]" class="btn btn-outline-primary">
+            View Details
+          </a>
+          <a [routerLink]="['/products/edit', product.id]" class="btn btn-outline-warning">
+            Edit
+          </a>
+          <button (click)="deleteProduct(product.id)" class="btn btn-outline-danger">
+            Delete
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

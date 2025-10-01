@@ -1,0 +1,882 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\job assignments\\backend part\\store\\infrastructure\\data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\job assignments\\backend part\\store\\infrastructure\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBB4FD4-143C-4280-8612-76839D6F692B}|Store\\Store.csproj|d:\\_development vault\\job assignments\\backend part\\store\\store\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FBB4FD4-143C-4280-8612-76839D6F692B}|Store\\Store.csproj|solutionrelative:store\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|d:\\_development vault\\job assignments\\backend part\\store\\domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\dtos\\productcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\dtos\\productcreateupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|d:\\_development vault\\job assignments\\backend part\\store\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBB4FD4-143C-4280-8612-76839D6F692B}|Store\\Store.csproj|d:\\_development vault\\job assignments\\backend part\\store\\store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBB4FD4-143C-4280-8612-76839D6F692B}|Store\\Store.csproj|solutionrelative:store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBB4FD4-143C-4280-8612-76839D6F692B}|Store\\Store.csproj|d:\\_development vault\\job assignments\\backend part\\store\\store\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBB4FD4-143C-4280-8612-76839D6F692B}|Store\\Store.csproj|solutionrelative:store\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBB4FD4-143C-4280-8612-76839D6F692B}|Store\\Store.csproj|d:\\_development vault\\job assignments\\backend part\\store\\store\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBB4FD4-143C-4280-8612-76839D6F692B}|Store\\Store.csproj|solutionrelative:store\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\job assignments\\backend part\\store\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBB4FD4-143C-4280-8612-76839D6F692B}|Store\\Store.csproj|d:\\_development vault\\job assignments\\backend part\\store\\store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FBB4FD4-143C-4280-8612-76839D6F692B}|Store\\Store.csproj|solutionrelative:store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\common\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\common\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\job assignments\\backend part\\store\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\interfaces\\irefreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\irefreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|d:\\_development vault\\job assignments\\backend part\\store\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|d:\\_development vault\\job assignments\\backend part\\store\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\services\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\services\\refreshtokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\job assignments\\backend part\\store\\infrastructure\\common\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\common\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|d:\\_development vault\\job assignments\\backend part\\store\\domain\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\ijwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\job assignments\\backend part\\store\\infrastructure\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|d:\\_development vault\\job assignments\\backend part\\store\\domain\\common\\codegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|solutionrelative:domain\\common\\codegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\dtos\\refreshrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\dtos\\refreshrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|d:\\_development vault\\job assignments\\backend part\\store\\domain\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\job assignments\\backend part\\store\\infrastructure\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\refreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\job assignments\\backend part\\store\\infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\job assignments\\backend part\\store\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|d:\\_development vault\\job assignments\\backend part\\store\\domain\\interfaces\\iproductcodeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iproductcodeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|d:\\_development vault\\job assignments\\backend part\\store\\infrastructure\\services\\productcodeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75924C9-A6F4-4534-890C-91EF7A65F44D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\productcodeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|d:\\_development vault\\job assignments\\backend part\\store\\application\\common\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433FDB06-B3B2-4C0A-B5BE-B7F625D1787B}|Application\\Application.csproj|solutionrelative:application\\common\\generalresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|d:\\_development vault\\job assignments\\backend part\\store\\domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBF9F2A5-7B60-427C-AA5E-2570416E385D}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 48,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{387cb18d-6153-4156-9257-9ac3f9207bbe}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{46c87f81-5a06-43a8-9e25-85d33bac49f8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c79b74ff-f1d7-4c94-aefa-4d22bfe1b1f9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{37aba9be-445a-11d3-9949-00c04f68fd0a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{34c7837f-3b3a-449c-bdf0-bdad86cbaf4a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:59:39.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreDbContext.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\StoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:58:55.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Store\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Store\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Store\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Store\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-30T16:05:41.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Store\\Program.cs",
+              "RelativeDocumentMoniker": "Store\\Program.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Store\\Program.cs",
+              "RelativeToolTip": "Store\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:32:34.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwHEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:15:08.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:18:30.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCreateUpdateDto.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\DTOs\\ProductCreateUpdateDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ProductCreateUpdateDto.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\DTOs\\ProductCreateUpdateDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ProductCreateUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:10:39.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Store\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Store\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Store\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Store\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:08:42.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:36:12.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Store\\appsettings.json",
+              "RelativeDocumentMoniker": "Store\\appsettings.json",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Store\\appsettings.json",
+              "RelativeToolTip": "Store\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T22:01:14.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\RefreshToken.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "Domain\\Entities\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T17:58:40.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Store\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Store\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Store\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Store\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:47:44.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:10:59.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T23:08:53.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:33:19.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Common\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\DependencyInjection.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Common\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\Common\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:08:45.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:36:22.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:03:37.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRefreshTokenService.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Interfaces\\IRefreshTokenService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IRefreshTokenService.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Interfaces\\IRefreshTokenService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IRefreshTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:40:34.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:20:20.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:02:21.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:04:20.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:30:17.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RefreshTokenService.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Services\\RefreshTokenService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\RefreshTokenService.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Services\\RefreshTokenService.cs",
+              "RelativeToolTip": "Application\\Services\\RefreshTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:54:35.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Common\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Common\\DependencyInjection.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Common\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\Common\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:32:21.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IJwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IJwtTokenGenerator.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Interfaces\\IJwtTokenGenerator.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IJwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:57:57.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:58:55.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CodeGenerator.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Common\\CodeGenerator.cs",
+              "RelativeDocumentMoniker": "Domain\\Common\\CodeGenerator.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Common\\CodeGenerator.cs",
+              "RelativeToolTip": "Domain\\Common\\CodeGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:31:40.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:10:00.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RefreshRequestDto.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\DTOs\\RefreshRequestDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\RefreshRequestDto.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\DTOs\\RefreshRequestDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\RefreshRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T22:11:03.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:42:16.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RefreshTokenRepository.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\RefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:00:23.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:31:32.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IRefreshTokenRepository.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRefreshTokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:01:48.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IProductCodeProvider.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Interfaces\\IProductCodeProvider.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IProductCodeProvider.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Interfaces\\IProductCodeProvider.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IProductCodeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:38:05.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductCodeProvider.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Services\\ProductCodeProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ProductCodeProvider.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Infrastructure\\Services\\ProductCodeProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ProductCodeProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:39:29.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GeneralResponse.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Common\\GeneralResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\GeneralResponse.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Application\\Common\\GeneralResponse.cs",
+              "RelativeToolTip": "Application\\Common\\GeneralResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:53:42.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\_Development Vault\\Job Assignments\\Backend Part\\Store\\Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T16:31:20.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{590a070c-4fcd-52d9-87da-dfaa11710261}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 190,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

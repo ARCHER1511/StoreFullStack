@@ -1,0 +1,25 @@
+.footer {
+  flex-shrink: 0;
+}
+
+.footer {
+  background-color: #343a40; // dark
+  color: #fff;
+  font-size: 0.9rem;
+  }
+
+  .footer-content{
+    color: #fff;
+    text-decoration: none;
+    &:hover {
+      color: #ffd700 !important;  // gold on hover
+      text-decoration: none;
+    }
+
+  .list-inline-item {
+    margin-left: 10px;
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+}
