@@ -9,10 +9,11 @@ namespace Infrastructure.Data
         public StoreDbContext CreateDbContext(string[] args) 
         {
             var builder = new DbContextOptionsBuilder<StoreDbContext>();
-            var connection = "Server=.;Database=StoreDb;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True";
+            var connection = "Server=.\\SQLEXPRESS;Database=StoreDb;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True";
             builder.UseSqlServer(connection);
 
             return new StoreDbContext(builder.Options);
         }
     }
 }
+

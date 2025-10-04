@@ -109,27 +109,30 @@ namespace Store
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Store API V1");
             });
 
-            using (var scope = app.Services.CreateScope())
-            {
-                var provider = scope.ServiceProvider.GetRequiredService<IProductCodeProvider>();
-                await CodeGenerator.InitializeAsync(provider);
-            }
-
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            app.UseHttpsRedirection();
+
+            app.UseStaticFiles();
+
             app.UseCors("AllowFrontend");
 
-            app.UseHttpsRedirection();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
             app.MapControllers();
 
-            app.UseStaticFiles();
+            using (var scope = app.Services.CreateScope())
+            {
+                var provider = scope.ServiceProvider.GetRequiredService<IProductCodeProvider>();
+                await CodeGenerator.InitializeAsync(provider);
+            }
 
             app.Run();
         }
