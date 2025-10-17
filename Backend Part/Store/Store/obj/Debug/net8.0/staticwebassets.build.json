@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rbG7Bh6LfcrZ03/vdViNt+oEz/BgbC8OLl6mgMQ6qrQ=",
+  "Hash": "56NDH+k02NNyMTmIUQxWeHVrHAXoqbS4AQUn9vZXpyQ=",
   "Source": "Store",
   "BasePath": "_content/Store",
   "Mode": "Default",
@@ -15,5 +15,25 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "D:\\Job\\StoreFullStack\\Backend Part\\Store\\Store\\wwwroot\\images\\products\\1280ee67-1caa-4258-ad22-42b820266d33_lucas-k-wQLAGv4_OYs-unsplash.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Job\\StoreFullStack\\Backend Part\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "images/products/1280ee67-1caa-4258-ad22-42b820266d33_lucas-k-wQLAGv4_OYs-unsplash.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\1280ee67-1caa-4258-ad22-42b820266d33_lucas-k-wQLAGv4_OYs-unsplash.jpg"
+    }
+  ]
 }
