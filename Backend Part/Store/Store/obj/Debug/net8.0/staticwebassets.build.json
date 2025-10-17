@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "56NDH+k02NNyMTmIUQxWeHVrHAXoqbS4AQUn9vZXpyQ=",
+  "Hash": "2sNwSkHY/XyN/0bGzlaP5phDjv9xZ9Nj3t5w0J4Px5E=",
   "Source": "Store",
   "BasePath": "_content/Store",
   "Mode": "Default",
@@ -16,6 +16,44 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\Job\\StoreFullStack\\Backend Part\\Store\\Store\\wwwroot\\images\\products\\0c2f64a5-820d-4694-8db6-5eceab47a1b2_lucas-k-wQLAGv4_OYs-unsplash.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Job\\StoreFullStack\\Backend Part\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "images/products/0c2f64a5-820d-4694-8db6-5eceab47a1b2_lucas-k-wQLAGv4_OYs-unsplash.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\0c2f64a5-820d-4694-8db6-5eceab47a1b2_lucas-k-wQLAGv4_OYs-unsplash.jpg"
+    },
+    {
+      "Identity": "D:\\Job\\StoreFullStack\\Backend Part\\Store\\Store\\wwwroot\\images\\products\\0eb3b019-743c-470f-92b5-b80a3c365b12_17606714252538215971106814530438.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Job\\StoreFullStack\\Backend Part\\Store\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "images/products/0eb3b019-743c-470f-92b5-b80a3c365b12_17606714252538215971106814530438.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\0eb3b019-743c-470f-92b5-b80a3c365b12_17606714252538215971106814530438.jpg"
+    },
     {
       "Identity": "D:\\Job\\StoreFullStack\\Backend Part\\Store\\Store\\wwwroot\\images\\products\\1280ee67-1caa-4258-ad22-42b820266d33_lucas-k-wQLAGv4_OYs-unsplash.jpg",
       "SourceId": "Store",

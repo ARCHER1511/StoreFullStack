@@ -24,7 +24,7 @@ namespace Store
                     policy =>
                     {
                         policy
-                            .WithOrigins("http://localhost:4200")
+                            .WithOrigins("http://localhost:4200","http://192.168.1.20:4200","https://localhost:4200","https://192.168.1.20:4200")
                             .AllowAnyHeader()
                             .AllowAnyMethod()
                             .AllowCredentials();
@@ -115,11 +115,12 @@ namespace Store
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            app.UseCors("AllowFrontend");
+            
             app.UseHttpsRedirection();
 
             app.UseStaticFiles();
 
-            app.UseCors("AllowFrontend");
 
 
             app.UseAuthentication();
